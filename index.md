@@ -2,7 +2,7 @@
 
 Anagrav is an anagram word game for iPhone: build words from six letter tiles to fuel a rocket's climb.
 
-**Contact:** [whatsthewordbusiness@gmail.com](mailto:whatsthewordbusiness@gmail.com)\
+**Contact:** [anagravgame@gmail.com](mailto:anagravgame@gmail.com)\
 I read every message. Please include your iPhone model and iOS version if something isn't working.
 
 ## How to play
